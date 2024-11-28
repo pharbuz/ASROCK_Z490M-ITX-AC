@@ -24,8 +24,8 @@ EFI for ASROCK Z490M ITX/AC with OpenCore bootloader
 | 1° SATA SSD      | SAMSUNG 860 EVO 500 GB (BACKUP)    |
 | 2° SATA SSD      | SAMSUNG 870 EVO 500 GB (DATI)      |
 | SmBios           | iMac 20,1                          |
-| BootLoader       | OpenCore 0.8.5                     |
-| macOS            | Ventura 13.1 Beta                  |
+| BootLoader       | OpenCore 1.0.2                     |
+| macOS            | Ventura 15.1                       |
 
 
 ![infomac](./Screenshot/GPU-INFOMAC.png)
