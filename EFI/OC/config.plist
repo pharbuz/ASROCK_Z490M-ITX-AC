@@ -12,7 +12,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-ASROCK Z490M-ITX-AC.aml</string>
+				<string>SSDT-ASROCK_Z490M-ITX-AC.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
