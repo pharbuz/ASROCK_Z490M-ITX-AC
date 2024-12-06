@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Lorys89/ASROCK_Z490M-ITX-AC/releases)
 
-# ASROCK Z490M ITX/AC Hackintosh
+# ASROCK Z490M ITX/AC Hackintosh Sequoia
 
 EFI for ASROCK Z490M ITX/AC with OpenCore bootloader
 
@@ -9,23 +9,20 @@ EFI for ASROCK Z490M ITX/AC with OpenCore bootloader
 
 ### Computer Spec:
 
-| Component        | Brank                              |
-| ---------------- | ---------------------------------- |
-| CPU              | Intel i5 10600K (6C-12T 12MB CML)  |
-| iGPU             | Intel® UHD Graphics                |
-| GPU              | SAPPHIRE PULSE RX5600XT 6GB GDDR6  |
-| Lan 2.5 GBPS     | Realtek 8125                       |
-| Lan 1.0 GBPS     | Intel I219 V11                     |
-| Audio            | Realtek ALC1200                    |
-| Ram              | CORSAIR 32GB DDR4 3600 MHz         |
-| Wifi + Bluetooth | DW1820A (BCM94350ZAE)              |
-| 1° NVMe SSD      | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
-| 2° NVMe SSD      | SAMSUNG 970 EVO PLUS 500 GB (WIN)  |
-| 1° SATA SSD      | SAMSUNG 860 EVO 500 GB (BACKUP)    |
-| 2° SATA SSD      | SAMSUNG 870 EVO 500 GB (DATI)      |
-| SmBios           | iMac 20,1                          |
-| BootLoader       | OpenCore 1.0.2                     |
-| macOS            | Ventura 15.1                       |
+| Component        | Brank                                                  |
+| ---------------- | ------------------------------------------------------ |
+| CPU              | Intel Core ES QBT1 i9-10900 (10C-20T 20MB CML)         |
+| iGPU             | Intel® UHD Graphics 630                                |
+| GPU              | SAPPHIRE NITRO+ 580 8 GB                               |
+| Lan 2.5 GBPS     | Realtek 8125                                           |
+| Lan 1.0 GBPS     | Intel I219 V11                                         |
+| Audio            | Realtek ALC1200                                        |
+| Ram              | KINGSTON FURY BEAST 64GB (2 x 32GB) DDR4 3200 MHz CL16 |
+| Wifi + Bluetooth | DW1820A (BCM94350ZAE)                                  |
+| 1° NVMe SSD      | CRUCIAL P3 PLUS 1 GB (MACOS/WIN11)                     |
+| SmBios           | iMac 20,1                                              |
+| BootLoader       | OpenCore 1.0.2                                         |
+| macOS            | Sequoia 15.1                                           |
 
 
 ![infomac](./Screenshot/GPU-INFOMAC.png)
@@ -61,8 +58,8 @@ EFI for ASROCK Z490M ITX/AC with OpenCore bootloader
 
 - [x] Intel UHD iGPU HDMI/DP Output
 - [x] Intel UHD iGPU - H264 & HEVC
-- [x] SAPPHIRE PULSE RX5600XT HDMI/DP OUTPUT (with audio) 
-- [x] SAPPHIRE PULSE RX5600XT - H264 & HEVC
+- [x] SAPPHIRE NITRO+ 580 HDMI/DP OUTPUT (with audio) 
+- [x] SAPPHIRE NITRO+ 580 - H264 & HEVC
 - [x] ALC1200 jack headphone (Front) 
 - [x] ALC1200 jack line-out (Rear) 
 - [x] ALC1200 jack microphone (Front & Rear)
